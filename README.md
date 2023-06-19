@@ -29,4 +29,5 @@ Python3, Pytest-bdd
  How to run the test:
  
  From the terminal in the Code Editor (IntelliJ in this case), use the below command to run the features
+ 
  python3 -m pytest -v tests/testcases/RobotVacuumTest.py
