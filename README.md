@@ -29,7 +29,7 @@ Test cases to verify the service for the following scenarios
 
 System Requirements:
 
-Python3, Pytest-bdd
+* Python3, Pytest-bdd
 
   
  How to run the test:
